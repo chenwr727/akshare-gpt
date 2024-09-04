@@ -1,0 +1,5 @@
+akshare==1.14.71
+loguru==0.7.2
+openai==1.43.0
+streamlit==1.38.0
+toml==0.10.2
